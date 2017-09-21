@@ -10,8 +10,11 @@ iii.
 Software installed: git, mod-wsgi, apache2, pip, httplib2, SQLAlchemy, flask, psycopg2, libpq-dev, virtualenv, postgresql, python requests, oath2
 
 Configuration changes made: 
+
      Configured UFW to deny all incoming except port 2200/tcp, 123/udp, 80/tcp.
+     
      Configured a user named grader with sudo permissions
+     
      Configured localtimezone to UTC
      Configured a catalog directory and git cloned in my item catalog project
      Configured the project to work on the lightsail environment with mod-wsgi
