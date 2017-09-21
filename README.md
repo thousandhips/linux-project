@@ -3,6 +3,7 @@
 i. The IP address and SSH port so your server can be accessed by the reviewer.
 ip address: 54.187.0.171
 ssh port: 2200
+grader password: heythere
 
 ii. Server url: http://54.187.0.171
 
