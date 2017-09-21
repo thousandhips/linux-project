@@ -3,7 +3,9 @@
 i. The IP address and SSH port so your server can be accessed by the reviewer.
 ip address: 54.187.0.171
 ssh port: 2200
+
 ii. Server url: http://54.187.0.171
+
 iii. 
 Software installed: git, mod-wsgi, apache2, pip, httplib2, SQLAlchemy, flask, psycopg2, libpq-dev, virtualenv, postgresql, python requests, oath2
 
